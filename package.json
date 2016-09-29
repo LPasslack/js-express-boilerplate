@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/nerdenough/js-express-boilerplate#readme",
   "scripts": {
+    "gulp": "gulp",
     "start": "node server.js",
     "test": "gulp test"
   },
